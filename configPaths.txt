@@ -1,0 +1,5 @@
+~/.config/sublime-text-3/Packages/User/Preferences.sublime-settings
+~/.zshrc
+~/.bash_profile
+~/.oh-my-zsh/themes/ultra-clean.zsh-theme
+~/.vimrc
