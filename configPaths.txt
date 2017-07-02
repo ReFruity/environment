@@ -3,3 +3,4 @@
 ~/.bash_profile
 ~/.oh-my-zsh/themes/ultra-clean.zsh-theme
 ~/.vimrc
+~/.gitconfig
