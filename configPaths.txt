@@ -1,6 +1,6 @@
-~/.config/sublime-text-3/Packages/User/Preferences.sublime-settings
-~/.zshrc
-~/.bash_profile
-~/.oh-my-zsh/themes/ultra-clean.zsh-theme
+~/.bash_aliases
 ~/.vimrc
 ~/.gitconfig
+~/.config/sublime-text-3/Packages/User/Preferences.sublime-settings
+~/.zshrc
+~/.oh-my-zsh/themes/ultra-clean.zsh-theme
